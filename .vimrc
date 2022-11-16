@@ -9,8 +9,8 @@ set ignorecase smartcase
 set wrap
 set vb t_vb=
 set hlsearch
-set list
-set listchars=tab:»·,trail:·,nbsp:·
+" set list
+" set listchars=tab:»·,trail:·,nbsp:·
 set scrolloff=5
 set mouse=a
 set history=1000
